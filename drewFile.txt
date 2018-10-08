@@ -1,3 +1,5 @@
 
 This is my file for Git HW3 Capstone 1 using vim bb.
  Ask about me!
+
+Sandy edited this thing!

@@ -1,3 +1,7 @@
 Hellos, I super love potatoes!
+<<<<<<< HEAD
 
 Hey Sandy, Its Drew and I am editing this file
+=======
+and dogs
+>>>>>>> 04d78e2cca6c482405f3d75d463f885683edddf8
